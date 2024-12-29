@@ -1,0 +1,16 @@
+body { font-family: Arial, sans-serif; 
+    background-image: url("weather.jpg");
+    background-size: cover; /* Cover entire area */
+    background-position: center; height: 200px ;width: 200px;background-color: rgb(206, 31, 83); margin:20px
+;padding:20px}
+#weather { margin-top: 10px; }
+.button {border-radius: 8px;}
+#getweather{
+    margin: 20px;
+    
+
+
+}
+#city{
+    margin: 20px 60px 20px 2px;
+}
